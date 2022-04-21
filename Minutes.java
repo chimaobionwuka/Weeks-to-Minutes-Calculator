@@ -1,6 +1,5 @@
 /* Chimaobi Onwuka
- * ceo2134
- * Easter.java
+ * Minutes.java
 /**
  * This program converts a number of days and weeks into the
  * equivalent number of minutes
